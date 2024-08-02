@@ -57,7 +57,6 @@ This project involves applying the Q-Learning algorithm to the Taxi-v3 environme
 - `taxi_animation.gif`: A GIF animation visualizing the agent's performance in the Taxi-v3 environment.
 - `README.md`: This README file providing an overview of the project, instructions, and details.
 - `LICENSE`: The license file for the project.
-- **Bellman Equation**: The Bellman equation used for Q-Learning updates is given.
 - **Q-Value Update Formula**: The formula to update the Q-values in Q-Learning.
 
 ## License
